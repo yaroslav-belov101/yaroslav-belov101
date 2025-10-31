@@ -17,9 +17,25 @@
         
 ### :man_technologist: About Me :
 I'm Yaroslav Belov. Building high-performance desktop solutions and exploring the frontiers of artificial intelligence. Two passions, one codebase: from native user interfaces to intelligent algorithms.
+---
+### 🎯 Current Focus :
 
-- 🖥️ **Desktop Development:** 
-- 🧠 **AI Research:** 
+💻 Desktop Development Stream:
+
+- Architecting scalable desktop solutions
+
+- Optimizing application performance and memory management
+
+- Enhancing user interface and experience design
+
+🤖 AI Research Stream:
+
+Developing and training machine learning models
+
+Experimenting with ML
+
+Analyzing data patterns and building predictive algorithms
+
 
     
 
