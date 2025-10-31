@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=yaroslav-belov101&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  hey there
+  Hey there :bowtie:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
