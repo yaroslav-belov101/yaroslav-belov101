@@ -30,11 +30,11 @@ I'm Yaroslav Belov. Building high-performance desktop solutions and exploring th
 
 🤖 AI Research Stream:
 
-Developing and training machine learning models
+- Developing and training machine learning models
 
-Experimenting with ML
+- Experimenting with ML
 
-Analyzing data patterns and building predictive algorithms
+- Analyzing data patterns and building predictive algorithms
 
 
     
