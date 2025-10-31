@@ -56,7 +56,7 @@ I'm Yaroslav Belov. Building high-performance desktop solutions and exploring th
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yaroslav-belov101&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/demo/?user=yaroslav-belov101&theme=dark&hide_border=true&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=weekly&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background)](https://git.io/streak-stats)    
 
 
 
