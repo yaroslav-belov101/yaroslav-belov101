@@ -12,10 +12,14 @@
 </div>
 
 
-
+---
         
 ### :man_technologist: About Me :
 I'm Yaroslav Belov. Building high-performance desktop solutions and exploring the frontiers of artificial intelligence. Two passions, one codebase: from native user interfaces to intelligent algorithms.
+
+- 🖥️ **Desktop Development:** 
+- 🧠 **AI Research:** 
+
 </div>
     
 
