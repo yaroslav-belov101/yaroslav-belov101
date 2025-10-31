@@ -58,6 +58,8 @@ I'm Yaroslav Belov. Building high-performance desktop solutions and exploring th
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yaroslav-belov101&theme=vision-friendly-dark&mode=weekly)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslav-belov101)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
