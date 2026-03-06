@@ -1,68 +1,41 @@
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100"/>
+> Software is like sex: it's better when it's free. — Линус Торвальдс
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
 
 
-<h1>
-  Hey there :bowtie:
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
-</h1>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600" height="300"/>
-</div>
-</div>
+# Привет, я Ярослав Белов 👋
 
 
----
-        
-### :man_technologist: About Me :
-I'm Yaroslav Belov. Building high-performance desktop solutions and exploring the frontiers of artificial intelligence. Two passions, one codebase: from native user interfaces to intelligent algorithms.
+Студент, увлекаюсь разработкой уже 4 года.    
+Люблю создавать полезные инструменты и постоянно учиться новому.
 
----
+## 🛠️ Технологии, с которыми работаю
 
-### 🎯 Current Focus :
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-💻 Desktop Development Stream:
+## 🔥 Мой основной проект
 
-- Architecting scalable desktop solutions
+### [QuickTab](https://github.com/yaroslav-belov101/QuickTab)
+*[QuickTab — это универсальный голосовой информационный хаб, который объединяет терминал, графический интерфейс и голосовое управление. Проект решает повседневную задачу: получать ключевую информацию (погоду, курсы валют, новости) без лишних кликов и десятков открытых вкладок браузера. Достаточно одной команды, голоса или клика в красивом тёмном интерфейсе.]*
 
-- Optimizing application performance and memory management
+## 📡 Мой канал в Telegram
 
-- Enhancing user interface and experience design
-
-🤖 AI Research Stream:
-
-- Developing and training machine learning models
-
-- Experimenting with ML
-
-- Analyzing data patterns and building predictive algorithms
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
----
-
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslav-belov101&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-    
+**[Faraday's life](https://t.me/faraday_lives)** — здесь я делюсь своим путём в разработке, рассказываю о проектах, гаджетах и всём, что связано с IT. Будет интересно всем, кто увлечён технологиями.
 
 
 
+## 🚀 Планы на будущее
 
+*   Выступать с докладами на IT-митапах
+*   Писать статьи для Habr
+*   Развивать канал и делиться опытом
 
-    
+## 📬 Связь со мной
 
+*   Telegram: [@BelovDevpath](https://t.me/BelovDevpath)
+*   GitHub: [yaroslav-belov101](https://github.com/yaroslav-belov101)
